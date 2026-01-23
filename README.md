@@ -1,4 +1,10 @@
 ## Hi there 👋
+#  I’m Anshul 👋
+👨‍🎓 ECE Student  
+💡 Tech Enthusiast  
+📍 From India  
+🔭 Working on web and open source
+
 
 <!--
 **anshulchikhale30-p/anshulchikhale30-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
