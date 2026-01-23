@@ -1,10 +1,3 @@
-## Hi there 👋
-#  I’m Anshul 👋
-👨‍🎓 ECE Student  
-💡 Tech Enthusiast  
-📍 From India  
-🔭 Working on web and open source
-
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">ECE Student | Open Source Enthusiast | GSoC 2026 Aspirant</h3>
 
