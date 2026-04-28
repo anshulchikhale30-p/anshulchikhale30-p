@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
-<h3 align="center">ECE Student | Open Source Enthusiast | GSoC 2026 Aspirant</h3>
+<h3 align="center">ECE Student | Open Source Enthusiast | GSoC </h3>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Electronics & Communication Engineering student  
-- 🌱 Preparing for **Google Summer of Code 2026**
+- 🌱 Preparing for **Google Summer of Code **
 - 🔍 Interested in **Backend Systems, Security, and Decentralized Identity**
 - 🛠️ Love working on real-world open source codebases
 - 📚 Focused on clean code, testing, and documentation
 
 ---
 
-## 🚀 GSoC 2026 – Focus Areas
+## – Focus Areas
 - Open source contribution & community collaboration  
 - Backend development (Python / APIs / Systems)  
 - Security & threat modeling  
@@ -82,12 +82,8 @@
 - Contributing to open source projects  
 - Studying large Python codebases  
 - Security & decentralized identity systems  
-- Preparing a strong **GSoC 2026 proposal**
 
 ---
-
-## 📫 Let’s Connect
-- GitHub: https://github.com/anshulchikhale30-p
 
 ---
 
