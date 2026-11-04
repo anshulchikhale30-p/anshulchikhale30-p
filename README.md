@@ -36,3 +36,14 @@
 
 ---
 
+---
+
+<!-- ========================= SWIMMING FISH ========================= -->
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="Anshul's Swimming Koi Fish"/>
+
+</div>
+
+---
