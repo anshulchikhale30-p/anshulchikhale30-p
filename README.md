@@ -1,19 +1,23 @@
- <!-- ========================= ANIMATED HERO ========================= -->
+ <!-- ========================= UNDERWATER HERO ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:7C3AED&text=ANSHUL%20CHIKHALE&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="underwater-koi-banner.gif" width="100%" alt="Golden koi swimming underwater"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Open+Source+Contributor+%F0%9F%9A%80;AI%2FML+%26+Cloud+Native+Developer;Competitive+Programmer+%F0%9F%92%BB;Building+AI+Agents+%26+Developer+Tools;Learning.+Building.+Contributing." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:1D4ED8,100:7C3AED&text=ANSHUL%20CHIKHALE&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Open+Source+Contributor+%F0%9F%9A%80;AI%2FML+%26+Cloud+Native+Developer;Competitive+Programmer+%F0%9F%92%BB;Building+AI+Agents+%26+Developer+Tools;Learning.+Building.+Contributing."/>
 
 <br/>
 
 <a href="https://github.com/anshulchikhale30-p">
 <img src="https://img.shields.io/github/followers/anshulchikhale30-p?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=anshulchikhale30-p&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
 <img src="https://img.shields.io/badge/Open%20Source-Active-22C55E?style=for-the-badge&logo=opensourceinitiative"/>
-  
+
 </div>
 
 ---
@@ -47,6 +51,10 @@ motto: "Code. Learn. Build. Repeat."
 
 </div>
 
+<div align="center">
+<img src="golden-koi-right.gif" width="300" alt="Golden koi swimming"/>
+</div>
+
 ---
 
 <!-- ========================= TECH STACK ========================= -->
@@ -55,7 +63,11 @@ motto: "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,go,python,rust,java,js,ts,react,nodejs,docker,kubernetes,linux,git,github,mongodb,postgres,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,go,python,rust,java,js,ts,react,nodejs,docker,kubernetes,linux,git,github,mongodb,postgres,redis&perline=6"/>
+
+<br/>
+
+<img src="golden-koi-left.gif" width="260" alt="Golden koi swimming through technologies"/>
 
 </div>
 
@@ -77,6 +89,10 @@ motto: "Code. Learn. Build. Repeat."
 
 </div>
 
+<div align="center">
+<img src="golden-koi-right.gif" width="320" alt="Swimming golden koi"/>
+</div>
+
 ---
 
 <!-- ========================= GITHUB STATS ========================= -->
@@ -95,9 +111,13 @@ motto: "Code. Learn. Build. Repeat."
 
 </div>
 
+<div align="center">
+<img src="golden-koi-left.gif" width="280" alt="Golden koi swimming"/>
+</div>
+
 ---
 
-<!-- ========================= TERMINAL ========================= -->
+<!-- ========================= DEVELOPER TERMINAL ========================= -->
 
 <h2 align="center">💻 MY DEVELOPER TERMINAL</h2>
 
@@ -105,29 +125,27 @@ motto: "Code. Learn. Build. Repeat."
 
 <img src="https://raw.githubusercontent.com/anshulchikhale30-p/anshulchikhale30-p/main/profile.svg" width="100%" alt="Anshul's Developer Terminal"/>
 
+<br/>
+
+<img src="golden-koi-right.gif" width="300" alt="Golden koi under developer terminal"/>
+
 </div>
 
 ---
 
-<!-- ========================= GOLDEN KOI ========================= -->
+<!-- ========================= UNDERWATER FOOTER ========================= -->
 
 <div align="center">
 
 <h2>🐟 KEEP SWIMMING. KEEP BUILDING.</h2>
 
-<img src="koi/koi.gif" width="220" alt="Golden Koi Fish"/>
+<img src="golden-koi-school.gif" width="100%" alt="Golden koi fish swimming together"/>
 
 <br/>
 
 <em>Consistency creates extraordinary results.</em>
 
-</div>
-
----
-
-<!-- ========================= FOOTER ========================= -->
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0F172A&height=110&section=footer"/>
 
