@@ -22,7 +22,7 @@ jobs:
 
       - uses: yalongwastaken/git-koi@v1
         with:
-          body: white
+          body:  gold
           output-dir: koi
 
       - name: Commit koi animation
