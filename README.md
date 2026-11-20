@@ -1,4 +1,4 @@
-[🌩️ Enter the Storm](https://anshulchikhale30-p.github.io/anshulchikhale30-p/)
+
 <div align="center">
   <img
     src="assests/Stormy Sky Lightning Animation Grid.gif"
